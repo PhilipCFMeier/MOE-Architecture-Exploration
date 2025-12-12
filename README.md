@@ -1,5 +1,5 @@
 # MOE Architecture Exploration Research Project
-This is the source code for the MOE Architecture Exploration Research Project.
+This is the source code for the MOE Architecture Exploration Research Project, see https://doi.org/10.36227/techrxiv.176158461.16357305/v1
 
 ## Requirements
 Python with the libraries listed in requirements.txt
